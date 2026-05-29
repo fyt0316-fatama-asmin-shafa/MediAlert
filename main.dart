@@ -54,7 +54,7 @@ void main() async {
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyAkUHxzVA6SxcTeheoytoWUAiuTKADWBQw",
+      apiKey: " ",
       appId: "1:267657249954:web:01165929839cb83e7e03fb",
       messagingSenderId: "267657249954",
       projectId: "medialert-a04d5",
